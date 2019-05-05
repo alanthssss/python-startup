@@ -16,8 +16,12 @@ req:有10个球分别3红、3蓝、4白，现需要将这10个球放入这3个�
 
 
 ```python
-import random
-
+import random  # 导入random模块
+lst = [['w'],['w'],['w'],]
+lst0 = ['w'] + ['r'] * 3+ ['b'] * 3
+for i in lst0:
+    random.choice(lst).append(i)
+print(lst)  # 打印结果
 ```
 
 
