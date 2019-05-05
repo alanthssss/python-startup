@@ -1,4 +1,4 @@
-## 初步使用：一行代码开始征程-Hello World
+## 初步使用：一行代码的开始-Hello World
 - 输入`print('Hello World!')`按下回车得到结果（打印`Hello World`）,完成。
 ![](/assets/010.png)
 - `quit()`或`exit()`推出python交互式编程环境
