@@ -1,6 +1,6 @@
 ## 感受高效：七行代码的后台代码-Flask
 
-Flask是著名的精简型Python Web后台框架，体现其高效。  
+Flask是著名的精简型Python Web后台框架，使用Flask来感受其高效。  
 1. 使用pip安装flask模块
 
 * 管理员打开命令行
