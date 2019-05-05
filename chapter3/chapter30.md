@@ -1,7 +1,7 @@
 ## 初步使用：Hello World
 - 输入`print('Hello World!')`按下回车得到结果（打印`Hello World`）,完成。
 ![](/assets/010.png)
-- quit()或exit（）推出python交互式编程环境
+- `quit()`或`exit()`推出python交互式编程环境
 ![](/assets/011.png)
 
 ---
