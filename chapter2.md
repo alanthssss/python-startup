@@ -16,7 +16,7 @@
 
 ---
 
-## 体现精简：五行代码的面试题-分小球
+## 精简：五行代码的面试题-分小球
 一个常见的面试题，体现Python的精简。
 req:有10个球分别3红、3蓝、4白，现需要将这10个球放入这3个盒子，要求每个盒子至少有一个白球。
 ```python
@@ -33,10 +33,11 @@ print(lst)  # 打印结果
 
 ---
 
-## 体现高效：七行代码的后台代码-Flask
+## 高效：七行代码的后台代码-Flask
 Flask是著名的精简型Python Web后台框架，体现其高效。
 1. 使用pip安装flask模块
 - 管理员打开命令行
+
 ![](/assets/013.png)
 - `python -m pip install --upgrade pip` 升级pip版本
 - `pip install flask`安装flask模块
