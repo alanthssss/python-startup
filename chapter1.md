@@ -1,1 +1,5 @@
-# First Chapter
+# 准备
+---
+Python(美 ['paɪθɑn]英 ['paɪθ(ə)n])
+美式发音''
+
