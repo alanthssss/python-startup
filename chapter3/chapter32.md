@@ -12,7 +12,7 @@
 ### 编写程序，保存为flask\_demo.py（后缀必须为.py）
 内容如下：
 
-```
+```python
 from flask import Flask
 app = Flask(__name__)
 
