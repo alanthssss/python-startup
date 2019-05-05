@@ -3,6 +3,7 @@
 说明：
 - mac自带Python2，可以无差别实现下一章的三个demo（自行安装pip或用其他方法安装flask模块即可），配置Python3开发环境、使用Python都很简单，下面给出安装包链接，在此不做详细介绍。
 - 在windows配置Python开发环境有两种方法比下文介绍的朴素方法快的多：Subsystem、Docker。此处只提出方法名，没有使用经验的话就按照朴素方法开始吧。
+- 最朴素的安装方法使用者最多，教程也最乱，这里给出精准的详细步骤，咱们不走弯路。
 
 
 ## 安装包下载
@@ -12,12 +13,7 @@ Python安装包(根据系统选择链接下载当前最新Python3安装包)
 - [windows x64](https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe) 
 - [mac x64](https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg)
    
-## 安装
-1. Python(除CentOS系统外只说关键点)
-    - windows勾选将Python3相关目录添加至环境变量
-- Pycharm（百度lanyu打开第一个链接有你要的一切）
-
-### windows安装Python3
+## windows安装Python3
 此处会安装好Python3以及包管理工具pip
 
 1.选择windows需要的安装包点击开始安装
