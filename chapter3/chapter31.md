@@ -8,9 +8,11 @@ import random # 导入random模块
 lst = [['w'],['w'],['w'],]
 for i in ['w'] + ['r'] * 3 + ['b'] * 3:
 random.choice(lst).append(i)
+
 print(lst) # 打印结果
 ```
-
+效果
+![](/assets/18.png)
 ---
 
 是不是很酷炫呢？  
