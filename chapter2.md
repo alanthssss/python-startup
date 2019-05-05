@@ -10,9 +10,15 @@
 - quit()或exit（）推出python交互式编程环境
 ![](/assets/011.png)
 
+---
+打印Hello World是一门编程语言最朴素的实现。
+接下来看第二个demo，用python自带模块和最基础的语法去解决一个面试题，体验其精简，思考其特点。
+
+---
+
 ## 体现精简：五行代码的面试题-分小球
-一个常见的面试题，体现Python的精简
-req:有10个球分别3红、3蓝、4白，现需要将这10个球放入这3个盒子，要求每个盒子至少有一个白球
+一个常见的面试题，体现Python的精简。
+req:有10个球分别3红、3蓝、4白，现需要将这10个球放入这3个盒子，要求每个盒子至少有一个白球。
 ```python
 import random  # 导入random模块
 lst = [['w'],['w'],['w'],]
@@ -20,16 +26,17 @@ for i in ['w'] + ['r'] * 3 + ['b'] * 3:
     random.choice(lst).append(i)
 print(lst)  # 打印结果
 ```
+---
 是不是很酷炫呢？
 习惯其他语言的程序员看到这里可能为其精简诧异，可能为其担忧，不要紧，深入学习之后就会明白其中的奥秘。
-接下来我们看第三个demo,七行代码启动一个web后台
+接下来我们看第三个demo,七行代码启动一个web后台，享受python基于强大模块的高效。
 
+---
 
 ## 体现高效：七行代码的后台代码-Flask
-Flask是著名的精简型Python Web后台框架，体现其高效
+Flask是著名的精简型Python Web后台框架，体现其高效。
 1. 使用pip安装flask模块
 - 管理员打开命令行
-
 ![](/assets/013.png)
 - `python -m pip install --upgrade pip` 升级pip版本
 - `pip install flask`安装flask模块
