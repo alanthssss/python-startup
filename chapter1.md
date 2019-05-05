@@ -18,4 +18,39 @@
     - windows勾选将Python3相关目录添加至环境变量
 - Pycharm（百度lanyu打开第一个链接有你要的一切）
 
+### windows安装Python3
+此处会安装好Python3以及包管理工具pip
+
+1.选择windows需要的安装包点击开始安装
+![](/assets/000.png)
+2.  自动配置环境变量，以及选择自己配置安装（主要为了能让本机所有用户使用此次安装的Python）
+![](/assets/001.png)
+3. 进入下一步，再点击Next
+![](/assets/002.png)
+4. 勾选为所有用户安装，安装位置发生改变，初步配置完成，点击Install
+
+- 勾选前
+
+![](/assets/003.png)
+
+- 勾选后
+
+![](/assets/004.png)
+- 安装中
+
+![](/assets/005.png)
+- 安装完成
+
+![](/assets/006.png)
+5. 验证安装
+- `win+r`打开`运行`，输入`cmd`，按`enter（回车）`打开`命令行`
+
+![](/assets/007.png)
+
+- 输入`python -V`、`pip -V`（注意大写V）得到python版本、pip版本，安装完成
+
+![](/assets/008.png)
+
+
+
 
