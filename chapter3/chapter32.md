@@ -9,7 +9,7 @@
   * `python -m pip install --upgrade pip` 升级pip版本
   * `pip install flask`安装flask模块
   
-### 编写程序，保存为flask\_demo.py（后缀必须为.py）
+### 编写程序，保存为flask\_demo.py
 内容如下：
 
 ```python
