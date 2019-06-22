@@ -20,5 +20,6 @@
 ## Python语言简单易学
 
 Python上手成本非常之低,读完本文，抽出半个小时到一个小时动手操作,可以初步享受使用Python的乐趣。
-Python简单是为了优雅、高效，并不代表它哪里差.人生苦短，我用Python!
+Python简单是为了优雅、高效，但并不代表会点皮毛就能贸称会用Python，喜欢Python的人是不会止步于Toy Python的。
+人生苦短，我用Python!
 
