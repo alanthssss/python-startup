@@ -25,7 +25,7 @@ if __name__ == "__main__":
 ```
 ### 在当前目录重开一个命令行
 - 按住shift右键点击程序所在目录窗口的空白处，左键`在此处打开powershell窗口`
-- 输入python falsk\_demo.py开启后台服务  
+- 输入`python .\flask_demo.py`开启后台服务（可在输入`python+空格`后，输入`flask+<tab>`自动补全到同样的效果）  
   ![!\[\]\(/assets/014.png\)](/assets/014.png)
 
 - 在浏览器地址栏输入`127.0.0.1:5000`查看效果，实现完成  

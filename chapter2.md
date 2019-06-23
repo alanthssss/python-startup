@@ -8,10 +8,12 @@
 
 ## 安装包下载
 
-全部需要的文件
 Python安装包(根据系统选择链接下载当前最新Python3安装包)
+![](/assets/19.png)
 - [windows x64](https://www.python.org/ftp/python/3.7.3/python-3.7.3-amd64.exe) 
 - [mac x64](https://www.python.org/ftp/python/3.7.3/python-3.7.3-macosx10.9.pkg)
+
+关于Python版本选择注意：简单学习可先忽略版本，确保使用Python3.x即可，Python核心团队计划2020年停止支持Python2。
    
 ## windows安装Python3
 此处会安装好Python3以及包管理工具pip
